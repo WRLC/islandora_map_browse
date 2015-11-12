@@ -8,7 +8,7 @@ Modules
 * [Islandora Solr Search](http://github.com/islandora/islandora_solr_search)
 
 Libraries
-* [Leaflet.js - v. 0.7.3](http://leaflet-cdn.s3.amazonaws.com/build/leaflet-0.7.3.zip)
+* [Leaflet.js - v. 0.7.7](http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.zip)
    * create a directory called leaflet in sites/all/libraries
    * cd to the leaflet directory, download the zip file and unzip it
 * [Leaflet Marker Cluster](https://github.com/Leaflet/Leaflet.markercluster.git)
